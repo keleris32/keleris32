@@ -42,20 +42,36 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/html5" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/css3" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/typescript" title="Typescript" alt="Typescript" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/graphql" title="GraphQl" alt="GraphQl" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/rust" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python" title="Python" alt="Python" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/nodejs" title="NodeJs" alt="NodeJs" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql" title="PostgresSQl" alt="PostgresSQL" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/mongodb" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/heroku" title="Heroku" alt="Heroku" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/firebase" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/vscode" title="Vscode" alt="Vscode" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/git" title="Git" alt="Git" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQl" alt="GraphQl" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQl" alt="PostgresSQL" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
 <!--   <img src="" title="" alt="" width="40" height="40" />&nbsp;
   <img src="" title="" alt="" width="40" height="40" />&nbsp; -->
 </div>
+
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keleris32&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keleris32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+ 
+
