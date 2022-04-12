@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :dancing_women: I'm looking to collaborate with other techies on awesome and impactful projects.
 - :goal_net: 2022 Goals: Learn and build more web3 projects.
 - :zap: Fun fact: I love to draw and swim.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-ejiegbu-2b6644204/) [![Gmail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:charles.ejiegbu@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/c.h.a.r.l.e.y_/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charles-ejiegbu-2b6644204/) [![Gmail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:charles.ejiegbu@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/c.h.a.r.l.e.y_/)
 
 ---
 
